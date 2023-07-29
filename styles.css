@@ -357,7 +357,10 @@ footer p {
         margin-top: 30px;
     }
 
-    
+    .card:hover {
+        transform: scale(1.0);
+        
+    }
 
     .card {
         background-color: #9b8aced3;
