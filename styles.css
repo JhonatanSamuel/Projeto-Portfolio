@@ -295,6 +295,7 @@ footer p {
         justify-content: center;
         align-items: center;
         margin-left: 32px;
+        margin-top: 53px;
     }
 
     .portfolio {
@@ -325,7 +326,7 @@ footer p {
     .h2 {
         font-size: 30px;
         padding-top: 220px;
-        margin-left: 55px;
+        margin-left: 78px;
     }
 
     .h3 {
@@ -343,7 +344,7 @@ footer p {
 
     .cards-projetos {
         display: block;
-        
+        margin-top: 30px;
     }
 
     .cards-projetos2 {
@@ -351,10 +352,12 @@ footer p {
         margin-top: 30px;
     }
 
-    .cards-projetos {
+    .cards-projetos3 {
         display: block;
         margin-top: 30px;
     }
+
+    
 
     .card {
         background-color: #9b8aced3;
